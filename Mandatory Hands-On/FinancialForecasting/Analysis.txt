@@ -1,0 +1,8 @@
+Time Complexity of the code is O(n) beacuse recusrion is called once per year, i.e, n no. of times.
+
+Optimization methods:
+1. by using memoization concept which caches results of function calls to avoid redundant computations(repeated computation 
+   of same function).
+2. by using tail recusrsion where recursive call is the last operation performed. This reduces the time complexity when recursive calls 
+   are large in number.
+3. by using accumulators which store value of one recursive computation and passes it to next computation.

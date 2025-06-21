@@ -1,0 +1,12 @@
+Big O Notation describes the upper bound of an algorithm's running time in terms of input size n.
+It helps compare algorithm performance as data grows.
+
+Linear Search:
+Best case:O(1)
+Average case:O(n)
+Worst case:O(n)
+
+Binary Search:
+Best case:O(1)
+Average case:O(log n)
+Worst case:O(log n)

@@ -1,0 +1,9 @@
+Linear Search:
+In Linear Search, we iterate over all the elements of the array and check if it the current element is equal to the target element. 
+If we find any element to be equal to the target element, then return the index of the current element. Otherwise, if no element is
+equal to the target element, then return -1 as the element is not found.
+
+Binary Search:
+Binary Search Algorithm is a searching algorithm used in a sorted array by repeatedly dividing the search interval in half. 
+The idea of binary search is to use the information that the array is sorted and reduce the time complexity to O(log N). To apply this
+search, the data structure must be sorted and access to any element of the data structure should take constant time.

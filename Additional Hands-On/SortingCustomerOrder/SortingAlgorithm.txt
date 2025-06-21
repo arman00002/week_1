@@ -1,0 +1,24 @@
+Bubble Sort:
+Iterate through the array repeatedly, comparing adjacent pairs of elements and swapping them if they are in the wrong order. 
+Repeat until the array is fully sorted. Time complexity: O(n^2) in the worst and average cases, O(n) in the best case (when the input 
+array is already sorted).
+Space complexity: O(1)
+
+Quicksort: 
+QuickSort is a sorting algorithm based on the Divide and Conquer that picks an element as a pivot and partitions the given array 
+around the picked pivot by placing the pivot in its correct position in the sorted array.It works on the principle of divide and conquer,
+breaking down the problem into smaller sub-problems. Best Case: (Ω(n log n)), Occurs when the pivot element divides the array into 
+two equal halves. Average Case (θ(n log n)), On average, the pivot divides the array into two parts, but not necessarily equal.
+Worst Case: (O(n²)), Occurs when the smallest or largest element is always chosen as the pivot (e.g., sorted arrays).
+
+Mergesort:
+Mergesort follows the divide-and-conquer approach. It works by recursively dividing the input array into two halves, recursively 
+sorting the two halves and finally merging them back together to obtain the sorted array.Best Case: O(n log n), When the array is 
+already sorted or nearly sorted.Average Case: O(n log n), When the array is randomly ordered.
+Worst Case: O(n log n), When the array is sorted in reverse order.
+
+Insertion Sort:
+Build up a sorted subarray from left to right by inserting each new element into its correct position in the subarray. 
+Repeat until the array is fully sorted.Time complexity: O(n^2) in the worst and average cases, O(n) in the best case (when the 
+input array is already sorted).
+Space complexity: O(1)

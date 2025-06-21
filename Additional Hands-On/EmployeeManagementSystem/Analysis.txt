@@ -1,0 +1,14 @@
+Operation	        Time Complexity	
+1.addEmployee     	    O(1)	
+2.searchEmployee	    O(n)	
+3.deleteEmployee	    O(n)	
+4.listAll	            O(n)
+
+Limitations of Arrays-
+1.Cannot grow dynamically beyond declared size.
+2.Inefficient deletion: Requires shifting elements.
+3.Wasted memory if many slots remain unused.
+
+When to Use Arrays-
+1.number of employees is known and fixed.
+2.memory layout and fast index access is important.

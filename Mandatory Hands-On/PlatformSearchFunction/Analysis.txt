@@ -1,0 +1,10 @@
+Time Complexity:
+Linear Search:O(n)
+Linear Search is slower with larger datasets
+
+Binary Search:O(log n)
+Binary Search is faster than Linear Search for larger datasets but it needs sorted input.
+
+
+As E-commerce platforms usually pre-sort or index products, Binary Search is more suitable since the searching will be faster because
+Binary Search is faster with larger datasets given the iinput is sorted which in case of E-commerce platforms is already sorted.

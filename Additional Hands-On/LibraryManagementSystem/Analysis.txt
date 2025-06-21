@@ -1,0 +1,9 @@
+Algorithm	            Best Case	Average Case	Worst Case
+Linear Search	        O(1)	       O(n)	          O(n)
+Binary Search	        O(1)	       O(log n)	      O(log n)
+
+When to Use:	
+1.Unsorted data-Linear Search
+2.Small dataset-Linear Search
+3.Sorted & large dataset-Binary Search
+4.Repeated searches expected-Binary Search (after sorting)

@@ -1,0 +1,6 @@
+Arrays are stored in contiguous memory blocks.Each element is accessed using its index, making retrieval very fast.
+
+Advantages of Arrays:
+1.Fast access: O(1) time to access an element by index.
+2.Simple structure, easy to use.
+3.Memory-efficient when size is known.

@@ -1,0 +1,6 @@
+Algorithm       Best          Average        Worst    
+Bubble Sort	    O(n)	      O(n²)	        O(n²)	  
+Quick Sort	    O(n log n)	  O(n log n)	    O(n²)
+
+Quick Sort is preferred because it is much faster on average than Bubble Sort due to divide-and-conquer approach and More scalable 
+for large data.

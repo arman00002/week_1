@@ -1,0 +1,10 @@
+Operation	        Time Complexity	
+1.Add Task	            O(n)	
+2.Search Task	        O(n)	
+3.Delete Task	        O(n)	
+4.Traverse List	        O(n)
+
+Advantages of Linked Lists Over Arrays-
+1.Grows/shrinks as needed no wasted memory due to fixed size.
+2.Efficient Insertions/Deletions: No need to shift elements like arrays.
+3.Better for Frequent Updates: Especially when inserting/deleting from middle or start.

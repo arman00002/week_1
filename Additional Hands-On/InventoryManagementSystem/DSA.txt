@@ -1,0 +1,9 @@
+Warehouses can store thousands of items, and operations like adding, updating, or searching must be fast.Using appropriate 
+data structures ensures efficient performance and scalability.
+
+Suitable Data Structures:
+1.ArrayList-Simple inventory and sequential lookup
+2.HashMap-Fast lookup by product ID
+3.TreeMap-Sorted inventory by key
+
+For this case, HashMap is ideal because each product has a unique productId and we want fast retrieval and updates.

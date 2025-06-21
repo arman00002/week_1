@@ -1,0 +1,10 @@
+Operation	    	Time Complexity	
+1.addProduct		O(1) 	
+3.updateProduct		O(1) 	
+3.deleteProduct		O(1) 	
+4.viewAll	    	O(n)	
+
+Optimization-
+1.Avoid Duplicates: Use containsKey() to avoid adding duplicate product IDs
+2.Batch Updates: Minimize frequent updates by batching transactions.
+

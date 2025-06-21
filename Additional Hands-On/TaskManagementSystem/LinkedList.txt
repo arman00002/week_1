@@ -1,0 +1,7 @@
+Singly Linked List:
+Each node contains data and a reference to the next node only.Simpler and memory-efficient.Best for forward traversal and 
+dynamic insertions/deletions.
+
+Doubly Linked List:
+Each node has two pointers: one to the next node, one to the previous.Allows forward and backward traversal.Slightly more memory 
+usage, but better for frequent two-way navigation.

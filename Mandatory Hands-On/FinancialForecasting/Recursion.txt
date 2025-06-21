@@ -1,0 +1,5 @@
+Recursion is a technique where a method calls itself to break down a problem into smaller subproblems.
+
+Recusrion breaks a problem into modular approach mainly by breaking the solution into base case and recusrion case and calls the recursion case
+from within itself until base case is achieved. This reduces the length of code, less variable is used and in most cases reduces complexity of code.
+
