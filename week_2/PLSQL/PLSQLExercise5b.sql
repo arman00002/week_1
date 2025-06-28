@@ -1,0 +1,6 @@
+CREATE TABLE AuditLog (
+  AuditID NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+  TransactionID NUMBER,
+  Action VARCHAR2(50),
+  Timestamp DATE
+);

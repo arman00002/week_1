@@ -1,0 +1,2 @@
+02:33:54.859 [com.exercise.LoggingExample.main()] ERROR com.exercise.LoggingExample - This is an error message
+02:33:54.860 [com.exercise.LoggingExample.main()] WARN  com.exercise.LoggingExample - This is a warning message
