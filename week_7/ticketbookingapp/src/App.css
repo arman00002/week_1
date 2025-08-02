@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30px;
+  background-color: #f7f7f7;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+  background-color: #003366;
+  color: white;
+}
+
+button {
+  padding: 8px 15px;
+  font-size: 16px;
+  margin: 10px;
+}

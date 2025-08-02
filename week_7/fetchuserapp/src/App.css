@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: sans-serif;
+  padding: 40px;
+}
+
+.user-card {
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f4f4f4;
+}
+
+.user-card img {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
